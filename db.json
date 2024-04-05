@@ -1,0 +1,91 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+    },
+    {
+      "id": "2",
+      "title": "Ko'kat Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Bahor fasli kirib kelmoqda. Demak, ukrop, kashnich, ko‘k piyoz, selderey, rayhon va boshqa xushbo‘y ko‘katlar ko‘payadi. Bular tanamizni darmondorilar bilan to‘yintiradi, immunitetimizni mustahkamlaydi. Muhimi, ko‘katlar taomlarga o‘ziga xos ta’m beradi. Keling, turli ko‘katlarning foydali xususiyatlari to‘g‘risida batafsil so‘z yuritaylik.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNFqf8Z0ErL0cfsm5YnoNDJ7ill8PKnh9kWrDogMTgw&s"
+    },
+    {
+      "id": "2",
+      "title": "Monti",
+      "cookingTime": "60 minutes",
+      "ingredients": ["hamir", "gosh", "ziravorlar", "oil", "onion", "spices"],
+      "method": "Manti - bu turkiy va musulmon xalqlari oshxonalarida mashhur bo‘lgan klassik taom: Kavkaz, Turkiya, Mo‘g‘uliston, O‘zbekiston va hatto Xitoy va Koreyada. Rossiyada va postsovet hududida manti sobiq Sovet Ittifoqi Markaziy Osiyo respublikalaridan kelgan juda mashhur taomdir",
+      "imageUrl": "https://i.ytimg.com/vi/EMc8tpf4x9w/sddefault.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Shorva",
+      "cookingTime": "40 minutes",
+      "ingredients": [
+        "sabzi",
+        "gosh",
+        "ziravorlar",
+        "piyoz",
+        "onion",
+        "spices"
+      ],
+      "method": "Sho'rva o'zbek milliy taomlaridan biri hisoblanib, ushbu taomni bilmagan, tayyorlamagan bekaning o'zi bo'lmasa kerak. Bugun sizlar bilan esa qo'y go'shti solib, qaynatma usulda, yengil va mazali tayyor bo'ladigan sho'rvani tayyorlaymiz. Barcha uchun sevimli taomni albatta tayyorlang!",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXBPntxHhscC1U-ThqtORdo-TwYGdh6kKuCO_X-Xl6dQ&s"
+    },
+    {
+      "id": "2",
+      "title": "cola",
+      "cookingTime": "2 minutes",
+      "ingredients": [],
+      "method": "ichimlik turi",
+      "imageUrl": "https://ogoh.uz/wp-content/uploads/2022/04/IMG_20220424_102640_705.jpg"
+    },
+    {
+      "id": "2",
+      "title": "shirinliklar",
+      "cookingTime": "2 minutes",
+      "ingredients": [],
+      "method": "shirinlik turi",
+      "imageUrl": "https://avatars.mds.yandex.net/get-altay/5495309/2a0000017cdeadb753dda2e64c5c5cd44f83/L_height"
+    },
+    {
+      "id": "2",
+      "title": "Fasfood",
+      "cookingTime": "10 minutes",
+      "ingredients": [],
+      "method": "Fasfood",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMktomalD1uz-EEvGUHjzsMotHdp_Ap42vNdq9hOCjQ&s"
+    },
+    {
+      "id": "2",
+      "title": "Choy",
+      "cookingTime": "10 minutes",
+      "ingredients": [],
+      "method": "Choy ichimlik",
+      "imageUrl": "https://frankfurt.apollo.olxcdn.com/v1/files/w7z665x2wq69-UZ/image;s=1080x1077"
+    },
+    {
+      "id": "2",
+      "title": "cofe",
+      "cookingTime": "10 minutes",
+      "ingredients": [],
+      "method": "cofe ",
+      "imageUrl": "https://budnikofe.ru/sites/default/files/styles/400x474/public/images/page/2021-12/kofe-krema-1.jpg?itok=58c5rt4R"
+    },
+    {
+      "id": "2",
+      "title": "TAKO",
+      "cookingTime": "10 minutes",
+      "ingredients": [],
+      "method": "TAKO ",
+      "imageUrl": "https://mrshaur.ru/wp-content/uploads/2021/02/tako.jpg"
+    }
+  ]
+}
